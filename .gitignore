@@ -1,0 +1,10 @@
+web-ext-artifacts/
+dist/
+*.xpi
+*.zip
+.env
+.env.*
+amo-credentials.json
+*.pem
+*.key
+.DS_Store
