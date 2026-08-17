@@ -62,4 +62,4 @@ Canonical repository target: `GoreeCloud/goreecloud-redirector`.
 
 ## Version
 
-0.2.0 — source and unsigned package candidate. Persistent Stable installation remains gated on Mozilla signing and signed-build acceptance testing.
+**0.2.0 — Stable.** The Mozilla-signed Firefox build was accepted on 2026-08-17. Normal installation, persistent enablement after a full Firefox restart, and the built-in Google Keep → GoreeCloud Memos redirect were successfully verified.
