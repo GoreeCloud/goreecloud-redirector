@@ -12,7 +12,9 @@
 - Added self-matching destination-loop validation for custom redirects.
 - Set the Firefox minimum version to 140 to align with Firefox built-in data-collection consent metadata behavior.
 - Added zero-dependency source validation, release documentation, AMO signing guidance, credential-safe signing helper, Git ignore rules, security/privacy records, and GitHub Actions validation.
-- Kept Mozilla signing and persistent-install acceptance as release gates rather than claiming Stable status from an unsigned artifact.
+- Completed Mozilla signing and signed-build acceptance testing in Firefox Release.
+- Verified normal installation, persistence after a full Firefox restart, and continued Google Keep → GoreeCloud Memos redirection.
+- Promoted GoreeCloud Redirector v0.2.0 from Release Candidate to **Stable**.
 
 ## 0.1.0 — 2026-08-17
 
